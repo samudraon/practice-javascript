@@ -1,8 +1,8 @@
 const array = [23, 32, 86, 91, 34, 81, 4];
 
 
-let length = array.length;
-console.log(length);
+
+console.log(array.length);
 const change = array.slice(4);
 console.log(change)
 
